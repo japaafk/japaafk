@@ -1,16 +1,16 @@
-## Hi there 👋
+# Matheus Hirose
+---
+**Backend, Data Science and Software Engineer student**
+  
+- Documenting the progress of my studies
+- Deep learning in python and its extensions
+- Readable & organized codes
+- Currently goal: improving my backend skills to future produce an AI
 
-<!--
-**japaafk/japaafk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Studying areas
+---
+  
+ - **Data structure and algorithms**
+ - Progamming fundamentals
+ - Projects using *APIs*
+ - Managing data in files

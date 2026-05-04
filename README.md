@@ -12,7 +12,7 @@
   
  - **Data structure and algorithms**
  - Progamming fundamentals
- - Projects using *APIs*
+ - Projects using **APIs**
  - Managing data in files
 
 ## Contacts

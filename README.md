@@ -5,7 +5,7 @@
 - Documenting the progress of my studies
 - Deep learning in python and its extensions
 - Readable & organized codes
-- Currently goal: improving my backend skills to start working with LLMs
+- Current goal: improve my knowledge of algorithm related to security and networking
 
 ## Studying areas
 ---
